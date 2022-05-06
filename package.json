@@ -1,0 +1,29 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "express-app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subash1706/express-app.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "subash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subash1706/express-app/issues"
+  },
+  "homepage": "https://github.com/subash1706/express-app#readme"
+}
